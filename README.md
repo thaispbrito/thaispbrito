@@ -34,6 +34,8 @@ Python, with hands-on full-stack application development experience gained throu
 
 ## Projects :hammer_and_wrench:
 
+> View my [Portfolio](https://thaispbportfolio.my.canva.site/)
+
 ### :ocean: **HydroWave**
 
 [Live](https://hydrowave.netlify.app/) | [GitHub](https://github.com/thaispbrito/hydro-wave-front-end)
