@@ -27,10 +27,9 @@
 
 ## Summary :spiral_notepad: 
 
-**Software Engineer** with a background in hydrogeology and data management. Detail-oriented, proficient in JavaScript, HTML, CSS, and
-Python, with hands-on full-stack application development experience gained through the Adobe Digital Academy program. Multilingual in Portuguese, English, and Italian, with strong collaboration and communication skills. Eager to contribute to meaningful projects and grow within collaborative, tech-forward teams.
+**Software Engineer** with a background in hydrogeology and data management. Detail-oriented, proficient in Python, JavaScript, HTML, and CSS, with hands-on full-stack application development experience gained through the Adobe Digital Academy program. Multilingual in Portuguese, English, and Italian, with strong collaboration and communication skills. Eager to contribute to meaningful projects and grow within collaborative, tech-forward teams.
 
-> **Why trasitioning to tech?** My experience in hydrogeology consulting introduced me to programming, as I often ran and debugged scripts for analysis and report automation. Collaborating with software developers, I saw firsthand how thoughtful application design can boost productivity and reduce repetitive tasks. Motivated by this impact, I committed to learning programming independently and was later selected as a Top 15 Scholar in the Adobe Digital Academy, where I gained hands-on experience building full-stack applications. I am excited to apply my technical expertise and analytical mindset to create impactful, user-focused solutions in the tech industry.
+> **Why trasitioning to tech?** My experience in hydrogeology consulting introduced me to programming, as I often ran and debugged scripts for data analysis and report automation. Collaborating with software developers, I saw firsthand how thoughtful application design can boost productivity and reduce repetitive tasks. Motivated by this impact, I committed to learning programming independently and was later selected as a Top 15 Scholar in the Adobe Digital Academy, where I gained hands-on experience building full-stack applications. I am excited to apply my technical expertise and analytical mindset to create impactful, user-focused solutions in the tech industry.
 
 ## Projects :hammer_and_wrench:
 
